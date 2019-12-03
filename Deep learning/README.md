@@ -1,5 +1,5 @@
 
-<h3>"LSTM_allcovered" 파일 참고</h3>
+<h3>"LSTM_ALLCOVERED" 파일 참고</h3>
   1. Data preprocessing
   <br>2. LSTM
     <br>&nbsp;&nbsp;&nbsp;2-1. Hyperparameter tuning
